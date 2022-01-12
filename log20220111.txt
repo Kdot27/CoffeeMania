@@ -1,0 +1,4 @@
+2022-01-11 12:43:31.724 -05:00 [ERR] Error Manager Menu: The handle is invalid.
+2022-01-11 12:43:55.495 -05:00 [ERR] Error Manager Menu: The handle is invalid.
+2022-01-11 12:44:18.261 -05:00 [ERR] Error MenuLogin: Cannot read keys when either application does not have a console or when console input has been redirected. Try Console.Read.
+2022-01-11 12:45:09.198 -05:00 [ERR] Error MenuLogin: Cannot read keys when either application does not have a console or when console input has been redirected. Try Console.Read.

@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Toure_Kadiay_PO\Toure_Kadiay_PO.csproj" />
+    <ProjectReference Include="..\Toure_Kadialy_PO\Toure_Kadialy_PO.csproj" />
   </ItemGroup>
 
 </Project>

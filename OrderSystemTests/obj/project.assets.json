@@ -1824,7 +1824,7 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Toure_Kadiay_PO/1.0.0": {
+      "Toure_Kadialy_PO/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1834,10 +1834,10 @@
           "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
-          "bin/placeholder/Toure_Kadiay_PO.dll": {}
+          "bin/placeholder/Toure_Kadialy_PO.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Toure_Kadiay_PO.dll": {}
+          "bin/placeholder/Toure_Kadialy_PO.dll": {}
         }
       }
     }
@@ -6498,16 +6498,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Toure_Kadiay_PO/1.0.0": {
+    "Toure_Kadialy_PO/1.0.0": {
       "type": "project",
-      "path": "../Toure_Kadiay_PO/Toure_Kadiay_PO.csproj",
-      "msbuildProject": "../Toure_Kadiay_PO/Toure_Kadiay_PO.csproj"
+      "path": "../Toure_Kadialy_PO/Toure_Kadialy_PO.csproj",
+      "msbuildProject": "../Toure_Kadialy_PO/Toure_Kadialy_PO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 16.11.0",
-      "Toure_Kadiay_PO >= 1.0.0",
+      "Toure_Kadialy_PO >= 1.0.0",
       "coverlet.collector >= 3.1.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6545,8 +6545,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\Revature\\P0\\Toure_Kadiay_PO\\Toure_Kadiay_PO.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\Revature\\P0\\Toure_Kadiay_PO\\Toure_Kadiay_PO.csproj"
+            "C:\\Users\\User\\Downloads\\Revature\\P0\\Toure_Kadialy_PO\\Toure_Kadialy_PO.csproj": {
+              "projectPath": "C:\\Users\\User\\Downloads\\Revature\\P0\\Toure_Kadialy_PO\\Toure_Kadialy_PO.csproj"
             }
           }
         }

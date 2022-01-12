@@ -9,13 +9,13 @@ using Toure_Kadialy_P0.Models;
 
 namespace Toure_Kadialy_P0.UI
 {
-    public class StoreProdcuctMenu
+    public class StoreProductMenu
     {
 
         private StoreBL _storeBl;
         private ProductBL _productBl;
         private Customer customer;
-        public StoreProdcuctMenu(Customer customer)
+        public StoreProductMenu(Customer customer)
         {
             _storeBl = new StoreBL();
             _productBl = new ProductBL();

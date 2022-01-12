@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Toure_Kadiay_P0.Models;
+using Toure_Kadialy_P0.Models;
 using Xunit;
 
 namespace OrderSystemTest
@@ -22,7 +22,7 @@ namespace OrderSystemTest
         {
             ProductOrder order = new ProductOrder();
             order.TotalPrice = 120;
-            Assert.False(order.IsValidPrice(), "The product price is valid");
+            Assert.True(order.IsValidPrice(), "The product price is valid");
         }
         [Fact]
         public void IsValidProductOrderQty()
@@ -58,7 +58,7 @@ namespace OrderSystemTest
         {
             OrderMaster orderMaster = new OrderMaster();
             orderMaster.OrderDate = new DateTime().AddDays(1);
-            Assert.True(orderMaster.IsValidOrderDate(), "The Order date is not valid");
+            Assert.False(orderMaster.IsValidOrderDate(), "The Order date is not valid");
         }
         [Fact]
         public void IsValidCustomerName()

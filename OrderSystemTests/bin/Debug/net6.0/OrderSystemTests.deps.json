@@ -9,7 +9,7 @@
       "OrderSystemTests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.11.0",
-          "Toure_Kadiay_PO": "1.0.0",
+          "Toure_Kadialy_PO": "1.0.0",
           "coverlet.collector": "3.1.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -1194,7 +1194,7 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "Toure_Kadiay_PO/1.0.0": {
+      "Toure_Kadialy_PO/1.0.0": {
         "dependencies": {
           "ConsoleTables": "2.4.2",
           "Serilog": "2.10.0",
@@ -1202,7 +1202,7 @@
           "System.Data.SqlClient": "4.8.3"
         },
         "runtime": {
-          "Toure_Kadiay_PO.dll": {}
+          "Toure_Kadialy_PO.dll": {}
         }
       }
     }
@@ -1934,7 +1934,7 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Toure_Kadiay_PO/1.0.0": {
+    "Toure_Kadialy_PO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
