@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcbd393d-f0f3-4da6-9451-68b4bcd0997b": {
+      "ProjectGuid": "fcbd393d-f0f3-4da6-9451-68b4bcd0997b",
+      "DisplayName": "Toure_Kadialy_PO",
+      "ColorIndex": 0
+    },
+    "dc437afb-6b83-4647-97df-8010e2d2ece4": {
+      "ProjectGuid": "dc437afb-6b83-4647-97df-8010e2d2ece4",
+      "DisplayName": "OrderSystemTests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
