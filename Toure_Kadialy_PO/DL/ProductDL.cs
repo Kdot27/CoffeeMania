@@ -22,7 +22,7 @@ namespace Toure_Kadialy_P0.DL
             con = ConnectDB.getConnection();
         }
         /// <summary>
-        /// Get all products availablle in database
+        /// Get all products available in database
         /// </summary>
         /// <returns></returns>
         public List<Product> GetAllProducts()
@@ -59,7 +59,7 @@ namespace Toure_Kadialy_P0.DL
             }
         }
         /// <summary>
-        /// Get all avalaible store products
+        /// Get all available store products
         /// </summary>
         /// <param name="storeId"></param>
         /// <returns>List of products</returns>
